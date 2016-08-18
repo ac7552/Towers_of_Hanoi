@@ -1,0 +1,26 @@
+ul {
+  height: 200px;
+  position: relative;
+  list-style: none;
+}
+
+.disc {
+  position: relative;
+  bottom: 150px;
+  border-radius: 50%;
+  height: 50px;
+  background-color: gray;
+  list-style: none;
+  margin: auto;
+}
+
+.tower {
+  position: relative;
+  top: 200px;
+  float: left;
+  height: 50px;
+  width: 300px;
+  margin: 10px;
+  background-color: black;
+  list-style: none;
+}
